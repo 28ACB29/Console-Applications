@@ -1,0 +1,6 @@
+C:\Users\arthu\source\repos\ConsoleApplications\Utility\bin\Debug\Utility.dll
+C:\Users\arthu\source\repos\ConsoleApplications\Utility\bin\Debug\Utility.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\Utility\obj\Debug\Utility.dll
+C:\Users\arthu\source\repos\ConsoleApplications\Utility\obj\Debug\Utility.pdb

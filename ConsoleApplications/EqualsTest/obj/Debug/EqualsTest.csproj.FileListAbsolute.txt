@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\obj\Debug\EqualsTest.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\obj\Debug\EqualsTest.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\bin\Debug\EqualsTest.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\bin\Debug\EqualsTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\bin\Debug\EqualsTest.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\obj\Debug\EqualsTest.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\obj\Debug\EqualsTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\EqualsTest\obj\Debug\EqualsTest.pdb

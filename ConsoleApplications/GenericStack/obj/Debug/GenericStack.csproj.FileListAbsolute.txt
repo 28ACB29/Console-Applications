@@ -1,0 +1,9 @@
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\obj\Debug\GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\bin\Debug\GenericStack.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\bin\Debug\GenericStack.exe
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\bin\Debug\GenericStack.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\obj\Debug\GenericStack.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\obj\Debug\GenericStack.exe
+C:\Users\arthu\source\repos\ConsoleApplications\GenericStack\obj\Debug\GenericStack.pdb

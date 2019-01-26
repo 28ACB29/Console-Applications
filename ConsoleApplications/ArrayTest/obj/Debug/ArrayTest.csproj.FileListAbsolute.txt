@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\bin\Debug\ArrayTest.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\bin\Debug\ArrayTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\bin\Debug\ArrayTest.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\obj\Debug\ArrayTest.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache

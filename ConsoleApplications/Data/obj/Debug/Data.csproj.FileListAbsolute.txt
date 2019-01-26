@@ -1,0 +1,6 @@
+C:\Users\arthu\source\repos\ConsoleApplications\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\Data\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\Data\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\Data\obj\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\Data\obj\Debug\Data.pdb

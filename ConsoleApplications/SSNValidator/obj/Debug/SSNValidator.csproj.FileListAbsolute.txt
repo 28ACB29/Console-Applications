@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\bin\Debug\SSNValidator.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\bin\Debug\SSNValidator.exe
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\bin\Debug\SSNValidator.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\bin\Debug\Utility.dll
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\bin\Debug\Utility.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\obj\Debug\SSNValidator.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\obj\Debug\SSNValidator.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\obj\Debug\SSNValidator.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\obj\Debug\SSNValidator.exe
+C:\Users\arthu\source\repos\ConsoleApplications\SSNValidator\obj\Debug\SSNValidator.pdb

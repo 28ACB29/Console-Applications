@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\bin\Debug\CustomerType.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\bin\Debug\CustomerType.exe
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\bin\Debug\CustomerType.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\obj\Debug\CustomerType.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\obj\Debug\CustomerType.exe
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\obj\Debug\CustomerType.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\CustomerType\obj\Debug\CustomerType.csprojAssemblyReference.cache

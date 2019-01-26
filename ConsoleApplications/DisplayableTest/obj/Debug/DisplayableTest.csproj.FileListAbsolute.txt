@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\obj\Debug\DisplayableTest.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\bin\Debug\DisplayableTest.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\bin\Debug\DisplayableTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\bin\Debug\DisplayableTest.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\obj\Debug\DisplayableTest.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\obj\Debug\DisplayableTest.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\obj\Debug\DisplayableTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\DisplayableTest\obj\Debug\DisplayableTest.pdb

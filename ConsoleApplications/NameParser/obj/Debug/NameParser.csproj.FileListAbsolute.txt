@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\bin\Debug\NameParser.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\bin\Debug\NameParser.exe
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\bin\Debug\NameParser.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\obj\Debug\NameParser.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\obj\Debug\NameParser.exe
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\obj\Debug\NameParser.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\NameParser\obj\Debug\NameParser.csprojAssemblyReference.cache

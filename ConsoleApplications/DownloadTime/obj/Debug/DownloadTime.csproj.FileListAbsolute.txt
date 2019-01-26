@@ -1,0 +1,6 @@
+C:\Users\arthu\source\repos\ConsoleApplications\DownloadTime\bin\Debug\DownloadTime.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\DownloadTime\bin\Debug\DownloadTime.exe
+C:\Users\arthu\source\repos\ConsoleApplications\DownloadTime\bin\Debug\DownloadTime.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\DownloadTime\obj\Debug\DownloadTime.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\DownloadTime\obj\Debug\DownloadTime.exe
+C:\Users\arthu\source\repos\ConsoleApplications\DownloadTime\obj\Debug\DownloadTime.pdb

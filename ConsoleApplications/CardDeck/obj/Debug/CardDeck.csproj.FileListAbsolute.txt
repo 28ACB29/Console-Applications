@@ -1,0 +1,6 @@
+C:\Users\arthu\source\repos\ConsoleApplications\CardDeck\bin\Debug\CardDeck.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\CardDeck\bin\Debug\CardDeck.exe
+C:\Users\arthu\source\repos\ConsoleApplications\CardDeck\bin\Debug\CardDeck.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\CardDeck\obj\Debug\CardDeck.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\CardDeck\obj\Debug\CardDeck.exe
+C:\Users\arthu\source\repos\ConsoleApplications\CardDeck\obj\Debug\CardDeck.pdb

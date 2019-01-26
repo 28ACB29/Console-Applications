@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\obj\Debug\SortedCustomer.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\bin\Debug\SortedCustomer.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\bin\Debug\SortedCustomer.exe
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\bin\Debug\SortedCustomer.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\obj\Debug\SortedCustomer.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\obj\Debug\SortedCustomer.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\obj\Debug\SortedCustomer.exe
+C:\Users\arthu\source\repos\ConsoleApplications\SortedCustomer\obj\Debug\SortedCustomer.pdb

@@ -1,0 +1,9 @@
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\obj\Debug\ProductCloneTest.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\bin\Debug\ProductCloneTest.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\bin\Debug\ProductCloneTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\bin\Debug\ProductCloneTest.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\obj\Debug\ProductCloneTest.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\obj\Debug\ProductCloneTest.exe
+C:\Users\arthu\source\repos\ConsoleApplications\ProductCloneTest\obj\Debug\ProductCloneTest.pdb

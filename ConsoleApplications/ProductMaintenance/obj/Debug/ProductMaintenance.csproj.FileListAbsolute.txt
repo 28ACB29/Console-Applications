@@ -1,0 +1,6 @@
+C:\Users\arthu\source\repos\ConsoleApplications\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\arthu\source\repos\ConsoleApplications\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\arthu\source\repos\ConsoleApplications\ProductMaintenance\obj\Debug\ProductMaintenance.pdb

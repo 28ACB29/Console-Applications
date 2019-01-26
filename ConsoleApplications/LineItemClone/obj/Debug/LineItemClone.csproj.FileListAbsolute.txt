@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\obj\Debug\LineItemClone.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\obj\Debug\LineItemClone.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\bin\Debug\LineItemClone.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\bin\Debug\LineItemClone.exe
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\bin\Debug\LineItemClone.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\obj\Debug\LineItemClone.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\obj\Debug\LineItemClone.exe
+C:\Users\arthu\source\repos\ConsoleApplications\LineItemClone\obj\Debug\LineItemClone.pdb

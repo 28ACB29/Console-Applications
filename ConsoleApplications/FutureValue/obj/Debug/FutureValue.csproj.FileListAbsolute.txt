@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\bin\Debug\Utility.dll
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\bin\Debug\Utility.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\obj\Debug\FutureValue.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\FutureValue\obj\Debug\FutureValue.csprojAssemblyReference.cache

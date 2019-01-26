@@ -1,0 +1,9 @@
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\bin\Debug\Invoice.exe
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\bin\Debug\Invoice.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\bin\Debug\Data.dll
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\bin\Debug\Data.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\obj\Debug\Invoice.csproj.CopyComplete
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\obj\Debug\Invoice.exe
+C:\Users\arthu\source\repos\ConsoleApplications\Invoice\obj\Debug\Invoice.pdb

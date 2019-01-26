@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\bin\Debug\TestScore.exe.config
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\bin\Debug\TestScore.exe
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\bin\Debug\TestScore.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\obj\Debug\TestScore.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\obj\Debug\TestScore.exe
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\obj\Debug\TestScore.pdb
+C:\Users\arthu\source\repos\ConsoleApplications\TestScore\obj\Debug\TestScore.csprojAssemblyReference.cache
